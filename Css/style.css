@@ -478,7 +478,7 @@
       rgba(235, 151, 78, 0.3)
     ),
     url("../img/eating.jpg");
-  background-size: cover;
+  background-size:cover;
 }
 .cta-form {
   display: grid;
