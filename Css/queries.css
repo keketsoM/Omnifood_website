@@ -101,9 +101,11 @@
   /*Mobile Navigation*/
   .btn-mobile-nav {
     display: block;
+    z-index: 9999;
   }
   .main-nav {
-    background-color: rgba(255, 255, 255, 0.97);
+    background-color: rgba(255, 255, 255, 0.6);
+    backdrop-filter: blur(10px);
     position: absolute;
     top: 0;
     left: 0;
